@@ -1,2 +1,2 @@
 # HW-REACT-COMPONENTS
-https://mateusztyb.github.io/HW-REACT-COMPONENTS/
+https://mateusztyb.github.io/hw-react-components/
