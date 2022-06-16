@@ -21,7 +21,7 @@ function Statistics(props) {
   return (
     <section className={styles.statistics}>
       {props.title === undefined ? (
-        <h2 className={styles.hidden}></h2>
+        <h2 className={styles.hidden}></h2> // eslint-disable-line
       ) : (
         <h2 className={styles.title}>{props.title}</h2>
       )}
